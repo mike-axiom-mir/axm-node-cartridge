@@ -1,28 +1,73 @@
-AXM NODE CARTRIDGE — PROPRIETARY LICENSE
-Version 0.1 — 2026
+AXM NODE CARTRIDGE — RESEARCH-VISIBLE PROPRIETARY LICENSE
+Version 0.2 — 2026
 
 Copyright (c) 2026 Mike / Axiom–Mir. All Rights Reserved.
 
-This repository and its original source code, documentation, capability graphs,
-node/state designs, schemas, data structures, generated materials, and other
-original AXM materials (the "AXM Materials") are proprietary.
+PURPOSE
 
-No permission is granted to copy, modify, distribute, sublicense, publish,
-relicense, sell, commercially exploit, create derivative works from, or
-incorporate the AXM Materials into another product, service, model, dataset,
-repository, or system without prior written permission from the copyright
-holder.
+This repository is intentionally visible so people can inspect, understand,
+discuss, review, critique, cite, and follow the AXM Node Cartridge research.
+Public visibility is not an open-source grant and does not grant permission to
+reuse the implementation.
 
-Access to, possession of, or visibility of the AXM Materials does not grant any
-license or usage right except where the copyright holder gives separate written
-permission.
+PERMITTED
+
+You may:
+
+1. access and read the materials through the official repository or other
+   authorized publication by the copyright holder;
+2. link to the official repository or authorized publication;
+3. discuss, review, critique, teach about, or cite the research with clear
+   attribution;
+4. reproduce short, reasonable excerpts where necessary for commentary,
+   criticism, citation, news, or academic discussion, subject to applicable
+   law and with attribution.
+
+NOT PERMITTED WITHOUT PRIOR WRITTEN PERMISSION
+
+Except for the limited permissions above, you may not:
+
+1. copy or redistribute source files, substantial code, capability graphs,
+   schemas, node/state definitions, datasets, generated materials, or other
+   substantial portions of the AXM Materials;
+2. copy-paste, adapt, translate, port, modify, repackage, or create derivative
+   implementations from the AXM Materials;
+3. publish mirrors, replacement repositories, bundles, archives, or other
+   redistributed copies of the AXM Materials;
+4. incorporate the AXM Materials into another product, service, project,
+   repository, model, dataset, training corpus, agent system, or software body;
+5. sell, license, sublicense, commercially exploit, or provide the AXM
+   Materials as part of a paid or monetized offering;
+6. remove or obscure authorship, provenance, copyright, or license notices;
+7. claim the AXM Materials or substantially copied implementations as your own.
+
+RESEARCH IDEAS AND INDEPENDENT WORK
+
+This license governs copyrightable AXM Materials, not ideas that applicable law
+leaves free for independent study or independent implementation. Independent
+work must not copy protected AXM expression, source, structure, or other
+copyrightable material beyond what applicable law permits.
+
+THIRD-PARTY MATERIALS
 
 Third-party materials, if any, remain subject to their own licenses and rights.
-This license does not replace, remove, or restrict rights granted by an
+This license does not replace, remove, expand, or restrict rights granted by an
 applicable third-party license.
 
-No patent, trademark, publicity, privacy, or other rights are granted by this
-license.
+PLATFORM TERMS
+
+Nothing in this license overrides rights that must be granted to a hosting
+platform solely so that platform can store, display, transmit, or provide its
+required repository features under its own terms of service. Such platform
+rights do not create a general license for other reuse of the AXM Materials.
+
+NO OTHER RIGHTS
+
+No patent, trademark, trade-secret, publicity, privacy, model-training,
+commercial-use, or other rights are granted except where explicitly stated
+above.
+
+DISCLAIMER
 
 THE AXM MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR
